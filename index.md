@@ -6,8 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-| ![Image](https://getoutline.org/modern/img/platform-android.svg)<br>Android |  ![Image](https://getoutline.org/modern/img/platform-android.svg)<br>Windows |  ![Image](https://getoutline.org/modern/img/platform-android.svg)Chrome OS |
-|  ![Image](https://getoutline.org/modern/img/platform-android.svg)iOS |  ![Image](https://getoutline.org/modern/img/platform-android.svg)macOS | ![Image](https://getoutline.org/modern/img/platform-android.svg) Linux |
+| ![Image](https://getoutline.org/modern/img/platform-android.svg)<br><br>Android |  ![Image](https://getoutline.org/modern/img/platform-android.svg)<br><br>Windows |  ![Image](https://getoutline.org/modern/img/platform-android.svg)<br><br>Chrome OS |
+|  ![Image](https://getoutline.org/modern/img/platform-android.svg)<br><br>iOS |  ![Image](https://getoutline.org/modern/img/platform-android.svg)<br><br>macOS | ![Image](https://getoutline.org/modern/img/platform-android.svg) <br><br>Linux |
 
 ```markdown
 Syntax highlighted code block
