@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 |  |  | |
 | :-: | :-: | :-: |
-|<br>![Image](https://getoutline.org/modern/img/platform-android.svg)<br>Android |<br>![Image](https://getoutline.org/modern/img/platform-windows.svg)<br>Windows |<br>![Image](https://getoutline.org/modern/img/platform-chrome.svg)<br>Chrome OS<br>|
+|<br>![Image](https://getoutline.org/modern/img/platform-android.svg)<br>[Android](https://play.google.com/store/apps/details?id=org.outline.android.client) |<br>![Image](https://getoutline.org/modern/img/platform-windows.svg)<br>Windows |<br>![Image](https://getoutline.org/modern/img/platform-chrome.svg)<br>Chrome OS<br><br>|
 |<br>![Image](https://getoutline.org/modern/img/platform-apple.svg)<br>iOS |<br>![Image](https://getoutline.org/modern/img/platform-apple.svg)<br>macOS |<br>![Image](https://getoutline.org/modern/img/platform-linux.svg) <br>Linux<br>|
 
 ```markdown
