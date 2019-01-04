@@ -6,8 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-| 短文本 | 中等文本 | 稍微长一点的文本 |
-| 稍微长一点的文本 | 短文本 | 中等文本 |
+| ![Image](https://getoutline.org/modern/img/platform-android.svg)Android |  ![Image](https://getoutline.org/modern/img/platform-android.svg)Windows |  ![Image](https://getoutline.org/modern/img/platform-android.svg)Chrome OS |
+|  ![Image](https://getoutline.org/modern/img/platform-android.svg)iOS |  ![Image](https://getoutline.org/modern/img/platform-android.svg)macOS | ![Image](https://getoutline.org/modern/img/platform-android.svg) Linux |
 
 ```markdown
 Syntax highlighted code block
