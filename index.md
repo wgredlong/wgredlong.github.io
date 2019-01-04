@@ -5,6 +5,8 @@ You can use the [editor on GitHub](https://github.com/wgredlong/wgredlong.github
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+
+|  |  | |
 | :-: | :-: | :-: |
 | ![Image](https://getoutline.org/modern/img/platform-android.svg)<br>Android |  ![Image](https://getoutline.org/modern/img/platform-windows.svg)<br>Windows |  ![Image](https://getoutline.org/modern/img/platform-chrome.svg)<br>Chrome OS |
 |  ![Image](https://getoutline.org/modern/img/platform-apple.svg)<br>iOS |  ![Image](https://getoutline.org/modern/img/platform-apple.svg)<br>macOS | ![Image](https://getoutline.org/modern/img/platform-linux.svg) <br>Linux |
