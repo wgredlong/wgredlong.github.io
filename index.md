@@ -8,25 +8,28 @@
 
 ### 1.费用
 
-	1.0.01 BTC / 年
-	2.0.1 BTC / 终身
+- 1.0.01 BTC / 年
+- 0.1 BTC / 终身
 
 ### 2.客户端：
 
+||||
 | :-: | :-: | :-: |
 |<br>![Image](https://getoutline.org/modern/img/platform-android.svg)<br>[Android](https://play.google.com/store/apps/details?id=org.outline.android.client) <br><br>|<br>![Image](https://getoutline.org/modern/img/platform-windows.svg)<br>Windows <br><br>|<br>![Image](https://getoutline.org/modern/img/platform-chrome.svg)<br>Chrome OS<br><br>|
 |<br>![Image](https://getoutline.org/modern/img/platform-apple.svg)<br>iOS<br><br> |<br>![Image](https://getoutline.org/modern/img/platform-apple.svg)<br>macOS<br><br> |<br>![Image](https://getoutline.org/modern/img/platform-linux.svg) <br>Linux<br><br>|
+| :-: | :-: | :-: |
+||||
 
 ### 3.购买密钥的方式
 
-	1.请您支付相应费用到 BTC 地址：
-	2.把您的支付地址发送到：wgredlong@protonmail.com
-	3.收到您的 BTC 及邮件地址后，我们会把相应的密钥通过邮件发给您。
+1.请您支付相应费用到 BTC 地址：
+2.把您的支付地址发送到：wgredlong@protonmail.com
+3.收到您的 BTC 及邮件地址后，我们会把相应的密钥通过邮件发给您。
 
 ### 4.出现问题如何处理？
 
-	1.如果是不涉及个人信息的问题，请毫不迟疑的提交到这里：https://github.com/wgredlong/wgredlong.github.io/issues
-	2.涉及个人信息的问题请发邮件到：wgredlong@protonmail.com
+1.如果是不涉及个人信息的问题，请毫不迟疑的提交到这里：https://github.com/wgredlong/wgredlong.github.io/issues
+2.涉及个人信息的问题请发邮件到：wgredlong@protonmail.com
 
 ### Markdown
 
