@@ -17,7 +17,7 @@
 <tr>
 <td align="center"><img src="https://getoutline.org/modern/img/platform-android.svg"><br><a href="https://play.google.com/store/apps/details?id=org.outline.android.client">Android</a></td>
 <td align="center"><img src="https://getoutline.org/modern/img/platform-windows.svg"><br>Windows</td>
-<td align="center"><img src="https://getoutline.org/modern/img/platform-chrome.svg"><br>Chrome<td>
+<td align="center"><img src="https://getoutline.org/modern/img/platform-chrome.svg"><br>Chrome</td>
 </tr>
 <tr>
 <td align="center"><img src="https://getoutline.org/modern/img/platform-apple.svg"><br>iOS</td>
