@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>platform-windows</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="uProxy-download-desktop" transform="translate(-277.000000, -707.000000)" fill="#FFFFFF">
+            <g id="platform-windows" transform="translate(277.000000, 707.000000)">
+                <rect id="Rectangle-5" fill-opacity="0" x="0" y="0" width="24" height="24"></rect>
+                <path d="M11.4782609,1.92764382 C15.6239959,1.22671348 19.8543199,0.613328279 24,0 L24,0.175261046 L24,11.3906588 C19.8543199,11.3906588 15.6239959,11.4782609 11.4782609,11.4782609 L11.4782609,1.92764382 Z M0,3.39131219 C3.44721145,2.86956992 6.89442291,2.43476587 10.4347826,2.08695652 L10.4347826,11.3913227 C6.89442291,11.3913227 3.44721145,11.4782609 0,11.4782609 L0,3.39131219 Z M0,12.5217391 C3.44721145,12.5217391 6.89442291,12.6086779 10.4347826,12.5217391 L10.4347826,21.9130435 C6.89442291,21.4782933 3.44721145,21.0434866 0,20.60868 L0,12.5217391 Z M11.4782609,12.5217391 L24,12.5217391 L24,23.4702853 L24,24 C19.8543199,23.2936755 15.6239959,22.7639034 11.4782609,22.1458551 L11.4782609,12.5217391 Z" id="Combined-Shape-Copy-4"></path>
+            </g>
+        </g>
+    </g>
+</svg>
