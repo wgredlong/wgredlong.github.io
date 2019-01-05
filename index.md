@@ -1,8 +1,32 @@
-## Welcome to GitHub Pages
+## 欢迎使用我们提供的 Outline 后端服务
 
-You can use the [editor on GitHub](https://github.com/wgredlong/wgredlong.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+通过使用我们提供的 Outline 后端服务并使用 Outline 客户端软件，只需以下三步就可以自由访问互联网。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  1.下载合适您设备的客户端软件，并安装；
+  2.购买（或使用临时）密钥，填入客户端软件；
+  3.点击连接，建立与后端服务器的连接，实现自由上网。
+
+### 1.费用
+
+	1.0.01 BTC / 年
+	2.0.1 BTC / 终身
+
+### 2.客户端：
+
+| :-: | :-: | :-: |
+|<br>![Image](https://getoutline.org/modern/img/platform-android.svg)<br>[Android](https://play.google.com/store/apps/details?id=org.outline.android.client) <br><br>|<br>![Image](https://getoutline.org/modern/img/platform-windows.svg)<br>Windows <br><br>|<br>![Image](https://getoutline.org/modern/img/platform-chrome.svg)<br>Chrome OS<br><br>|
+|<br>![Image](https://getoutline.org/modern/img/platform-apple.svg)<br>iOS<br><br> |<br>![Image](https://getoutline.org/modern/img/platform-apple.svg)<br>macOS<br><br> |<br>![Image](https://getoutline.org/modern/img/platform-linux.svg) <br>Linux<br><br>|
+
+### 3.购买密钥的方式
+
+	1.请您支付相应费用到 BTC 地址：
+	2.把您的支付地址发送到：wgredlong@protonmail.com
+	3.收到您的 BTC 及邮件地址后，我们会把相应的密钥通过邮件发给您。
+
+### 4.出现问题如何处理？
+
+	1.如果是不涉及个人信息的问题，请毫不迟疑的提交到这里：https://github.com/wgredlong/wgredlong.github.io/issues
+	2.涉及个人信息的问题请发邮件到：wgredlong@protonmail.com
 
 ### Markdown
 
