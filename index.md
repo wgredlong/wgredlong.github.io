@@ -1,5 +1,5 @@
-<center><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/bg-Oval.png" height="40" width="40" /></center>
-<br>
+<center><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/bg-Oval.png" height="28" width="28" /></center>
+
 ## 用 `出蓝` (Outline)，三步开启您的自由互联网。
 
 1. 给 <wgredlong@protonmail.com> 发送邮件申请出蓝测试密钥；
