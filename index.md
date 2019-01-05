@@ -13,8 +13,8 @@
 
 ### 2.客户端：
 
-|-|-|-|-|
-|:-:| :-: | :-: | :-: |
+|等待|等待|上色|等待|
+|:---:| :---: | :---: | :---: |
 ||<br>![Image](https://getoutline.org/modern/img/platform-android.svg)<br>[Android](https://play.google.com/store/apps/details?id=org.outline.android.client) <br><br>|<br>![Image](https://getoutline.org/modern/img/platform-windows.svg)<br>Windows <br><br>|<br>![Image](https://getoutline.org/modern/img/platform-chrome.svg)<br>Chrome OS<br><br>|
 |-|-|-|-|
 |:-:| :-: | :-: | :-: |
