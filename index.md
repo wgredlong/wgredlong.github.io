@@ -8,9 +8,10 @@
 
 问题提交：<https://github.com/wgredlong/wgredlong.github.io/issues>
 
+<br><br>
+
 ### 客户端下载：
 
-<br>
 <table>  
 <tr>
 <td align="center"><img src="https://github.com/wgredlong/wgredlong.github.io/tree/master/img/platform-android.png"><br><a href="https://play.google.com/store/apps/details?id=org.outline.android.client" title="android-v1.2.7">Android</a></td>
