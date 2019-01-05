@@ -6,9 +6,7 @@
 2. 收到密钥后下载适合您设备的客户端软件，并安装；
 3. 启动客户端软件，把密钥填入，点连接，稍后就可以自由访问互联网。
 
-问题提交：<https://github.com/wgredlong/wgredlong.github.io/issues>
-
-<br><br>
+<br>
 
 ### 客户端下载：
 
@@ -26,4 +24,4 @@
 </tr>
 </table>
 <br>
-
+问题提交：<https://github.com/wgredlong/wgredlong.github.io/issues>
