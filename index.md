@@ -20,7 +20,7 @@
 <td align="center"><img src="https://getoutline.org/modern/img/platform-windows.svg"><br>Windows</td>
 <td align="center"><img src="https://getoutline.org/modern/img/platform-chrome.svg"><br>Chrome</td>
 </tr>
-  <tr></tr>
+  <tr><br></td></tr>
 <tr>
 <td align="center"><img src="https://getoutline.org/modern/img/platform-apple.svg"><br>iOS</td>
 <td align="center"><img src="https://getoutline.org/modern/img/platform-apple.svg"><br>macOS</td>
