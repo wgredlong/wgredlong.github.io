@@ -1,10 +1,10 @@
 ## Hello World ！
 
-用`出蓝` (Outline)，只需三步，开启您的自由互联网。
+### 用 `出蓝` (Outline)，三步开启您的自由互联网。
 
 1. 给 wgredlong@protonmail.com 发送邮件申请出蓝测试密钥；
 2. 收到密钥后下载适合您设备的客户端软件，并安装；
-3. 启动客户端软件，把密钥填入，点连接，稍后就可以自由上网。
+3. 启动客户端软件，把密钥填入，点连接，稍后就可以自由访问互联网。
 
 ### 客户端下载：
 
@@ -24,6 +24,4 @@
 </table>
 <br>
 
-### 问题提交：
-  
-  <https://github.com/wgredlong/wgredlong.github.io/issues>
+### 问题提交：<https://github.com/wgredlong/wgredlong.github.io/issues>
