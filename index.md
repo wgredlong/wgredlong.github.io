@@ -42,12 +42,6 @@
 
 ### Markdown
 
-||||
-| :-: | :-: | :-: |
-|<br>![Image](https://getoutline.org/modern/img/platform-android.svg)<br>[Android](https://play.google.com/store/apps/details?id=org.outline.android.client) <br><br>|<br>![Image](https://getoutline.org/modern/img/platform-windows.svg)<br>Windows <br><br>|<br>![Image](https://getoutline.org/modern/img/platform-chrome.svg)<br>Chrome OS<br><br>|
-|<br>![Image](https://getoutline.org/modern/img/platform-apple.svg)<br>iOS<br><br> |<br>![Image](https://getoutline.org/modern/img/platform-apple.svg)<br>macOS<br><br> |<br>![Image](https://getoutline.org/modern/img/platform-linux.svg) <br>Linux<br><br>|
-| :-: | :-: | :-: |
-||||
 
 ```markdown
 Syntax highlighted code block
@@ -76,13 +70,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-
-|-|-|-|
-| :-: | :-: | :-: |
-|<br>![Image](https://getoutline.org/modern/img/platform-android.svg)<br>[Android](https://play.google.com/store/apps/details?id=org.outline.android.client) <br><br>|<br>![Image](https://getoutline.org/modern/img/platform-windows.svg)<br>Windows <br><br>|<br>![Image](https://getoutline.org/modern/img/platform-chrome.svg)<br>Chrome OS<br><br>|
-|-|-|-|
-| :-: | :-: | :-: |
-|<br>![Image](https://getoutline.org/modern/img/platform-apple.svg)<br>iOS<br><br> |<br>![Image](https://getoutline.org/modern/img/platform-apple.svg)<br>macOS<br><br> |<br>![Image](https://getoutline.org/modern/img/platform-linux.svg) <br>Linux<br><br>|
-| :-: | :-: | :-: |
-|-|-|-|
