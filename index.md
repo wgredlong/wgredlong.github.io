@@ -11,20 +11,23 @@
 1. 年费：0.01 BTC
 2. 终身费：0.1 BTC
 
-### 2.客户端：
+### 2.客户端下载：
 
+<br>
 <table>  
 <tr>
 <td align="center"><img src="https://getoutline.org/modern/img/platform-android.svg"><br><a href="https://play.google.com/store/apps/details?id=org.outline.android.client">Android</a></td>
 <td align="center"><img src="https://getoutline.org/modern/img/platform-windows.svg"><br>Windows</td>
 <td align="center"><img src="https://getoutline.org/modern/img/platform-chrome.svg"><br>Chrome</td>
 </tr>
+  <tr></tr>
 <tr>
 <td align="center"><img src="https://getoutline.org/modern/img/platform-apple.svg"><br>iOS</td>
 <td align="center"><img src="https://getoutline.org/modern/img/platform-apple.svg"><br>macOS</td>
 <td align="center"><img src="https://getoutline.org/modern/img/platform-linux.svg"><br>Linux</td>
 </tr>
 </table>
+<br>
 
 ### 3.购买密钥的方式
 
