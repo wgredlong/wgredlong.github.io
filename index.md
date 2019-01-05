@@ -14,12 +14,18 @@
 ### 2.客户端：
 
 <table>
-<tr><td align="center"><img src="https://getoutline.org/modern/img/platform-android.svg">
-<br><a href="https://play.google.com/store/apps/details?id=org.outline.android.client">Android</a>
-</td><td align="center"><img src="https://getoutline.org/modern/img/platform-windows.svg"><br>Windows</td>
-<td align="center"><img src="https://getoutline.org/modern/img/platform-chrome.svg"<br>Chrome<td></tr>
   
-  <tr><td align="center">![Image](https://getoutline.org/modern/img/platform-android.svg)<br>[Android](https://play.google.com/store/apps/details?id=org.outline.android.client)</td><td align="center">![Image](https://getoutline.org/modern/img/platform-windows.svg)<br>Windows</td><td align="center">![Image](https://getoutline.org/modern/img/platform-windows.svg)<br>Windows<td></tr>
+<tr>
+<td align="center"><img src="https://getoutline.org/modern/img/platform-android.svg"><br><a href="https://play.google.com/store/apps/details?id=org.outline.android.client">Android</a></td>
+<td align="center"><img src="https://getoutline.org/modern/img/platform-windows.svg"><br>Windows</td>
+<td align="center"><img src="https://getoutline.org/modern/img/platform-chrome.svg"><br>Chrome<td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://getoutline.org/modern/img/platform-apple.svg"><br>iOS</td>
+<td align="center"><img src="https://getoutline.org/modern/img/platform-apple.svg"><br>macOS</td>
+<td align="center"><img src="https://getoutline.org/modern/img/platform-linux.svg"><br>Linux</td>
+</tr>
 
 </table>
 
