@@ -1,6 +1,4 @@
-## Hello Outline ！
-
-### 用 `出蓝` (Outline)，三步开启您的自由互联网。
+## 用 `出蓝` (Outline)，三步开启您的自由互联网。
 
 1. 给 <wgredlong@protonmail.com> 发送邮件申请出蓝测试密钥；
 2. 收到密钥后下载适合您设备的客户端软件，并安装；
