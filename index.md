@@ -3,13 +3,13 @@
 <center>
   
 <img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/ol1.png">
-<br><font size="1">1.给 <wgredlong@protonmail.com> 发送邮件申请免费测试密钥；</font><br>
+<br><font size="3">1.给 <wgredlong@protonmail.com> 发送邮件申请免费测试密钥；</font><br>
 <img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/ol2.png">
-<br><font size="1">2.收到密钥后下载适合您设备的客户端软件，并安装；</font><br>
+<br><font size="3">2.收到密钥后下载适合您设备的客户端软件，并安装；</font><br>
 <img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/ol4.png">
-<br><font size="1">3.启动客户端软件，填入密钥，点连接，稍后就可以科学上网。</font><br>
+<br><font size="3">3.启动客户端软件，填入密钥，点连接，稍后就可以科学上网。</font><br>
 <img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/ol3.png">
-<br><font size="1">3.启动客户端软件，填入密钥，点连接，稍后就可以科学上网。</font><br>
+<br><font size="3">3.启动客户端软件，填入密钥，点连接，稍后就可以科学上网。</font><br>
   
   
 <img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/密钥1.png">
