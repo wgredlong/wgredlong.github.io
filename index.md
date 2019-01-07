@@ -9,6 +9,8 @@
 <br>1. 给 <wgredlong@protonmail.com> 发送邮件申请免费测试密钥；<br>
 <img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/密钥1-3.png">
 <br>1. 给 <wgredlong@protonmail.com> 发送邮件申请免费测试密钥；<br>
+<img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/密钥1-4.png">
+<br>1. 给 <wgredlong@protonmail.com> 发送邮件申请免费测试密钥；<br>
 <img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/密钥2.png">
 <br>2. 收到密钥后下载适合您设备的客户端软件，并安装；<br>
 <img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/密钥3.png"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/密钥4.png">
