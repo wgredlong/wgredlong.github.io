@@ -1,34 +1,12 @@
 ## 用 `出蓝` (Outline)，只需三步，科学上网。
 
-<center>
-  
+<center>  
 <img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/ol1.png">
-<br><font size="4">1.给 <wgredlong@protonmail.com> 发送邮件申请免费测试密钥；</font><br>
+<br><font size="5">1.给 <wgredlong@protonmail.com> 发送邮件申请免费测试密钥；</font><br>
 <img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/ol2.png">
-<br><font size="4">2.收到密钥后下载适合您设备的客户端软件，并安装；</font><br>
+<br><font size="5">2.收到密钥后下载适合您设备的客户端软件，并安装；</font><br>
 <img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/ol4.png">
-<br><font size="4">3.启动客户端软件，填入密钥，点连接，稍后就可以科学上网。</font><br>
-<img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/ol3.png">
-<br><font size="4">3.启动客户端软件，填入密钥，点连接，稍后就可以科学上网。</font><br>
-  
-  
-<img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/密钥1.png">
-<br>1. 给 <wgredlong@protonmail.com> 发送邮件申请免费测试密钥；<br>
-<img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/密钥1-1.png">
-<br>1. 给 <wgredlong@protonmail.com> 发送邮件申请免费测试密钥；<br>
-<img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/密钥1-2.png">
-<br>1. 给 <wgredlong@protonmail.com> 发送邮件申请免费测试密钥；<br>
-<img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/密钥1-3.png">
-<br>1. 给 <wgredlong@protonmail.com> 发送邮件申请免费测试密钥；<br>
-<img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/密钥1-4.png">
-<br>1. 给 <wgredlong@protonmail.com> 发送邮件申请免费测试密钥；<br>
-<img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/密钥1-5.png">
-<br>1. 给 <wgredlong@protonmail.com> 发送邮件申请免费测试密钥；<br>
-<img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/密钥2.png">
-<br>2. 收到密钥后下载适合您设备的客户端软件，并安装；<br>
-<img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/密钥3.png"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/密钥4.png">
-<img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/密钥5.png">
-<br>3. 启动客户端软件，把密钥填入，点连接，稍后就可以科学访问互联网。<br>
+<br><font size="5">3.启动客户端软件，填入密钥，点连接，稍后就可以科学上网。</font><br>
 </center>
 
 ### 客户端下载：
