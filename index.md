@@ -1,4 +1,4 @@
-## 用 `出蓝` (Outline)，三步开启您的自由互联网。
+## 用 `出蓝` (Outline)，只需三步，科学上网。
 
 <center>
 <img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/密钥1.png">
