@@ -2,21 +2,21 @@
 
 <center>
 <img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/密钥1.png">
-1. 给 <wgredlong@protonmail.com> 发送邮件申请免费测试密钥；
+<br>1. 给 <wgredlong@protonmail.com> 发送邮件申请免费测试密钥；<br>
 <img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/密钥2.png">
-2. 收到密钥后下载适合您设备的客户端软件，并安装；
+<br>2. 收到密钥后下载适合您设备的客户端软件，并安装；<br>
 <img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/密钥3.png"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/密钥4.png">
 <img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/密钥5.png">
-3. 启动客户端软件，把密钥填入，点连接，稍后就可以科学访问互联网。
+<br>3. 启动客户端软件，把密钥填入，点连接，稍后就可以科学访问互联网。<br>
 </center>
 
 ### 客户端下载：
 
 <table>  
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/platform-android.svg"><br><a href="https://play.google.com/store/apps/details?id=org.outline.android.client" title="android-v1.2.7">Android</a></td>
-<td align="center"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/platform-windows.svg"><br><a href="https://github.com/Jigsaw-Code/outline-client/releases/download/windows-v1.2.20/Outline-Client.exe" titel="windows-v1.2.20">Windows</a></td>
-<td align="center"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/platform-chrome.svg"><br>Chrome</td>
+<td align="center"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/platform-android.png"><br><a href="https://play.google.com/store/apps/details?id=org.outline.android.client" title="android-v1.2.7">Android</a></td>
+<td align="center"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/platform-windows.png"><br><a href="https://github.com/Jigsaw-Code/outline-client/releases/download/windows-v1.2.20/Outline-Client.exe" titel="windows-v1.2.20">Windows</a></td>
+<td align="center"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/platform-chrome.png"><br>Chrome</td>
 </tr>
 <tr><td>&nbsp;</td></tr>
 <tr>
