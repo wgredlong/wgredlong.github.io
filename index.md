@@ -1,17 +1,17 @@
 ## 用 `出蓝` (Outline)，只需三步，科学上网。
-<br><br>
+<br>
 
 <center>
 <table width="798px">
 
 <tr align="center" valign="top"><td width="33%"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/1.png"></td><td width="33%"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/2.png"></td><td width="33%"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/3.png"></td></tr>
 
-<tr align="left" valign="top"><td><font size="5">1.发送邮件申请免费测试密钥；</font></td><td><font size="5">2.下载适合您设备的客户端软件，并安装；</font></td><td><font size="5">3.启动客户端软件，填入密钥，稍后就可以科学上网。</font></td></tr>
+<tr align="left" valign="top"><td><font size="5">1.<a href="mailto:wgredlong@protonmail.com?&subject=申请免费测试密钥">发送邮件</a>申请免费测试密钥；</font></td><td><font size="5">2.下载适合您设备的客户端软件，并安装；</font></td><td><font size="5">3.启动客户端软件，填入密钥，稍后就可以科学上网。</font></td></tr>
 
 </table>
 </center>
 
-<br><br>
+<br>
 
 ### 客户端下载：
 
@@ -29,5 +29,4 @@
 </tr>
 </table>
 <br>
-申请免费密钥：<a href="mailto:wgredlong@protonmail.com?&subject=申请免费测试密钥">wgredlong@protonmail.com</a>
-<br>问题提交：<https://github.com/wgredlong/wgredlong.github.io/issues>
+问题提交：<https://github.com/wgredlong/wgredlong.github.io/issues>
