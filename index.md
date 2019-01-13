@@ -1,11 +1,12 @@
 ## 用 `出蓝` (Outline)，只需三步，科学上网。
-<br>4<br>
+<br>5<br>
 
 <center>
 <table width="100%">
 
 <tr align="center" valign="top"><td width="33%"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/1.png"></td><td width="33%"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/2.png"></td><td width="33%"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/3.png"></td></tr>
-
+</table>
+<table>
 
 <tr align="center" valign="top"><td><font size="5">1.给 <a href="mailto:wgredlong@protonmail.com?&subject=申请免费测试密钥">@wgredlong</a> 发送邮件申请免费测试密钥；</font></td><td><font size="5">2.下载适合您设备的客户端软件，并安装；</font></td><td><font size="5">3.启动客户端软件，填入密钥，稍后就可以科学上网。</font></td></tr>
 
