@@ -1,5 +1,5 @@
 ## 用 `出蓝` (Outline)，只需三步，科学上网。
-
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 <br><br>
 
 <center>
