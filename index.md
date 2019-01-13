@@ -1,7 +1,7 @@
 ## 用 `出蓝` (Outline)，只需三步，科学上网。
 
 <center>
-<table border="1" width="798px">
+<table width="798px">
 
 <tr align="center" valign="top"><td width="266px"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/1.png"></td><td width="266px"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/2.png"></td><td width="266px"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/3.png"></td></tr>
 
