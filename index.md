@@ -8,7 +8,7 @@
 <tr align="center" valign="top"><td width="266px"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/1.png"></td><td width="266px"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/2.png"></td><td width="266px"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/3.png"></td></tr>
 
 
-<tr><td><font size="5">1.给 wgredlong@protonmail.com 发送邮件申请免费测试密钥；</font></td><td><font size="5">2.下载适合您设备的客户端软件，并安装；</font></td><td><font size="5">3.启动客户端软件，填入密钥，点连接，稍后就可以科学上网。</font></td></tr>
+<tr><td><font size="5">1.给 <a hfre="mailto:wgredlong@protonmail.com">@wgredlong</a> 发送邮件申请免费测试密钥；</font></td><td><font size="5">2.下载适合您设备的客户端软件，并安装；</font></td><td><font size="5">3.启动客户端软件，填入密钥，点连接，稍后就可以科学上网。</font></td></tr>
 
 </table>
 </center>
