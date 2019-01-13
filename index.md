@@ -29,5 +29,5 @@
 </tr>
 </table>
 <br>
-申请免费密钥：<a href="mailto:wgredlong@protonmail.com?&subject=申请免费测试密钥">wgredlong@protonmail.com</a>
-问题提交：<https://github.com/wgredlong/wgredlong.github.io/issues>
+- 申请免费密钥：<a href="mailto:wgredlong@protonmail.com?&subject=申请免费测试密钥">wgredlong@protonmail.com</a>
+- 问题提交：<https://github.com/wgredlong/wgredlong.github.io/issues>
