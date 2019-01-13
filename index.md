@@ -1,5 +1,5 @@
 ## 用 `出蓝` (Outline)，只需三步，科学上网。
-<br>8<br>
+<br><br>
 
 <center>
 <table width="798px">
@@ -29,5 +29,5 @@
 </tr>
 </table>
 <br>
-- 申请免费密钥：<a href="mailto:wgredlong@protonmail.com?&subject=申请免费测试密钥">wgredlong@protonmail.com</a>
-- 问题提交：<https://github.com/wgredlong/wgredlong.github.io/issues>
+申请免费密钥：<a href="mailto:wgredlong@protonmail.com?&subject=申请免费测试密钥">wgredlong@protonmail.com</a>
+<br>问题提交：<https://github.com/wgredlong/wgredlong.github.io/issues>
