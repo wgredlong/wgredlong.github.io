@@ -1,4 +1,4 @@
-## 用出蓝 (Outline) 科学上网只需三步。
+<center>## 用出蓝 (Outline) 科学上网只需三步</center>
 <br>
 
 <center>
