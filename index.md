@@ -30,3 +30,4 @@
 </table>
 <br>
 问题提交：<https://github.com/wgredlong/wgredlong.github.io/issues>
+捐助出蓝：<https://wgredlong.github.io/donate.html>
