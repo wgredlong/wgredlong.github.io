@@ -17,15 +17,15 @@
 
 <table>  
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/platform-android.png"><br><a href="https://play.google.com/store/apps/details?id=org.outline.android.client" title="android-v1.2.7">Android</a></td>
-<td align="center"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/platform-windows.png"><br><a href="https://github.com/Jigsaw-Code/outline-client/releases/download/windows-v1.2.20/Outline-Client.exe" titel="windows-v1.2.20">Windows</a></td>
+<td align="center"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/platform-android.png"><br><a href="https://play.google.com/store/apps/details?id=org.outline.android.client" title="android-v1.2.9">Android</a></td>
+<td align="center"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/platform-windows.png"><br><a href="https://raw.githubusercontent.com/Jigsaw-Code/outline-releases/master/client/stable/Outline-Client.exe" titel="windows">Windows</a></td>
 <td align="center"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/platform-chrome.png"><br>Chrome</td>
 </tr>
 <tr><td>&nbsp;</td></tr>
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/platform-apple.png"><br><a href="https://github.com/Jigsaw-Code/outline-client/releases/download/ios-v1.2.2/Outline.ipa" titel="iOS v1.2.2">iOS</a></td>
-<td align="center"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/platform-apple.png"><br><a href="https://itunes.apple.com/us/app/outline-app/id1356178125">macOS</a></td>
-<td align="center"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/platform-linux.png"><br><a href="https://github.com/Jigsaw-Code/outline-client/releases/download/linux-v1.0.1/Outline-Client.AppImage" titel="linux v1.0.1">Linux</a></td>
+<td align="center"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/platform-apple.png"><br><a href="https://itunes.apple.com/us/app/outline-app/id1356177741" titel="iOS v1.2.5">iOS</a></td>
+<td align="center"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/platform-apple.png"><br><a href="https://itunes.apple.com/us/app/outline-app/id1356178125" titel="macOS v1.2.5">macOS</a></td>
+<td align="center"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/platform-linux.png"><br><a href="https://raw.githubusercontent.com/Jigsaw-Code/outline-releases/master/client/stable/Outline-Client.AppImage" titel="linux v1.0.1">Linux</a></td>
 </tr>
 </table>
 <br>
