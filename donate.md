@@ -5,3 +5,5 @@
 
 我們會給各位捐助者長期可用的密鑰。<br>
 捐助鏈接： <https://commerce.coinbase.com/checkout/64563924-000d-4555-baf1-20586732a741>
+
+<div> <a class="donate-with-crypto" href="https://commerce.coinbase.com/checkout/64563924-000d-4555-baf1-20586732a741"> <span>Donate with Crypto</span> </a> <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807"> </script> </div>
