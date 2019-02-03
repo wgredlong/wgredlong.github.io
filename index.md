@@ -32,3 +32,5 @@
 问题提交：<https://github.com/wgredlong/wgredlong.github.io/issues> 
 <br>
 捐助出蓝：<https://wgredlong.github.io/donate.html>
+<br>
+小技巧：<a href="Tips.md">导入 SS 密钥</a>
