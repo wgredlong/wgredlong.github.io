@@ -33,4 +33,4 @@
 <br>
 捐助出蓝：<https://wgredlong.github.io/donate.html>
 <br>
-小技巧：<a href="Tips.md">导入 SS 密钥</a>
+小技巧：<a href="https://wgredlong.github.io/Tips.html">导入 SS 密钥</a>
