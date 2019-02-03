@@ -1,6 +1,6 @@
 # 在出蓝客户端导入SS密钥
 
-出蓝在 SS（ Shadowsocks ）的基础上实现，也是通过密钥与服务器建立连接，出蓝密钥与SS密钥格式略有不同，比较见下：
+出蓝在 SS（ Shadowsocks ）的基础上实现，同样通过密钥与服务器建立连接，出蓝密钥与SS密钥格式略有不同，比较见下：
 
 - 出蓝密钥格式：ss://Y8hhxxxxxxxxxxxxxxxxxxxxxQSnh5alhNWGs=@178.xxx.xxx.198:61646/?outline=1
 - SS密钥格式：ss://YWVzLTI1NixxxxxxxxxxxxxxxxxxxxxS4xNTY2Mjc9MTg
