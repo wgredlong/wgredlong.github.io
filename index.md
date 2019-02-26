@@ -29,7 +29,7 @@
 </tr>
 </table>
 <br>
-试用公告：<https://wgredlong.github.io/announcement.md>
+试用公告：<https://wgredlong.github.io/announcement.html>
 <br>
 问题提交：<https://github.com/wgredlong/wgredlong.github.io/issues> 
 <br>
