@@ -6,6 +6,6 @@ Outline 是在安全性与稳定性方面都得到社区广泛认可的 Shadowso
 
 我们提供的 [出蓝（Outline）服务](https://wgredlong.github.io/)，将使您更容易科学访问互联网，并提供自由、安全和隐私保护。
 
-试用规则见：https://wgredlong.github.io/announcement.html
+试用规则见：https://github.com/wgredlong/wgredlong.github.io/blob/master/announcement.md
 
 出蓝(Outline)应用小技巧：[导入 SS 密钥](Tips.md)
