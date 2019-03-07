@@ -33,6 +33,6 @@
 <br>
 问题提交：<https://github.com/wgredlong/wgredlong.github.io/issues> 
 <br>
-应用技巧：<a href="https://wgredlong.github.io/Tips.html">导入 SS 密钥</a>
+应用技巧：<a href="https://wgredlong.github.io/Tips.html">导入 ShadowSocks 密钥</a>
 <br>
 捐助出蓝：<https://wgredlong.github.io/donate.html>
