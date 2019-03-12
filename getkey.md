@@ -2,7 +2,7 @@
 
 请通过电子邮件 <a href="mailto:wgredlong@protonmail.com?&subject=申请密钥">申请出蓝(Outline)密钥</a> ，并根据您的需要选择我们不同的服务方案。<br>
 
-1. 计划0：1个星期/0
+1. 计划0：1个星期/0BTC
 2. 计划3：3个月/0.005BTC
 3. 计划12：12个月/0.01BTC
 4. 计划100：终身/0.1BTC
