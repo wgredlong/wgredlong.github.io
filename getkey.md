@@ -1,12 +1,10 @@
 # 获得密钥
 
-可以免费申请出蓝 (Outline)密钥，并在一星期内免费试用。<br><br>
-<a href="mailto:wgredlong@protonmail.com?&subject=申请密钥">申请密钥</a> <br><br>
-如需长期稳定使用，请转为以下付费方案。<br><br>
+可以电子邮件 <a href="mailto:wgredlong@protonmail.com?&subject=申请密钥">申请密钥</a> 出蓝 (Outline)密钥，并在一星期内免费试用。如需长期稳定使用，请选取以下其中一种付费方案。<br>
 
-1. 三月：0.005 BTC
-2. 一年：0.01 BTC
-3. 永久：0.1 BTC
+1.三月：0.005 BTC
+2.一年：0.01 BTC
+3.永久：0.1 BTC
 
 *请点击以下支付按钮，并输入相应金额，完成支付后，请通过电子邮件告知我们。
 
