@@ -29,8 +29,6 @@
 </tr>
 </table>
 <br>
-试用须知：<https://wgredlong.github.io/announcement.html>
-<br>
 问题提交：<https://github.com/wgredlong/wgredlong.github.io/issues> 
 <br>
 应用技巧：<a href="https://wgredlong.github.io/Tips.html">导入 ShadowSocks 密钥</a>
