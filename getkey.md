@@ -2,7 +2,7 @@
 
 欢迎加入出蓝(Outline)会员计划，我们共提供四种不同的选项，您可以根据需要选择适合您的方案。<br>
 
-1. 计划0：免费，每次一周，无限次，<a href="mailto:wgredlong@protonmail.com?&subject=申请会员计划0">立即申请</a>
+1. 计划0：免费，有效期一周，<a href="mailto:wgredlong@protonmail.com?&subject=申请会员计划0">立即申请</a>
 2. 计划3：3个月/0.005BTC
 3. 计划12：12个月/0.01BTC
 4. 计划100：终身/0.1BTC
