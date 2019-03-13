@@ -7,7 +7,7 @@
 3. 计划12：12个月/0.01BTC
 4. 计划100：终身/0.1BTC
 
-*请点击以下支付按钮，并输入相应计划所需的BTC，完成支付后，请通过电子邮件告知我们。
+*申请会员计划 3、12、100 请先点击以下支付按钮，完成相应 BTC 的支付后，请通过电子邮件<a href="mailto:wgredlong@protonmail.com?&subject=请告知已经支持的计划类型（3、12、100）及交易信息">告知我们</a>，以便进行后续处理。
 
 <div> <a class="donate-with-crypto" href="https://commerce.coinbase.com/checkout/64563924-000d-4555-baf1-20586732a741"> <span>立即支付</span> </a> <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807"> </script> </div>
 
