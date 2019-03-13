@@ -6,7 +6,7 @@
 
 <tr align="center" valign="top"><td width="33%"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/1.png"></td><td width="33%"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/2.png"></td><td width="33%"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/3.png"></td></tr>
 
-<tr align="left" valign="top"><td><font size="5">1.下载适合您设备的客户端软件并安装；</font></td><td><font size="5">2.加入<a href="https://wgredlong.github.io/getkey.html">出蓝 (Outline)会员计划</a>获取密钥；</font></td><td><font size="5">3.把密钥填入客户端开始科学上网。</font></td></tr>
+<tr align="left" valign="top"><td><font size="5">1.下载适合您设备的客户端软件并安装；</font></td><td><font size="5">2.加入<a href="https://wgredlong.github.io/getkey.html">出蓝(Outline)会员计划</a>获取密钥；</font></td><td><font size="5">3.把密钥填入客户端开始科学上网。</font></td></tr>
 
 </table>
 </center>
