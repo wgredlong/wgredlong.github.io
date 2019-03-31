@@ -19,7 +19,7 @@
 <tr>
 <td align="center"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/platform-android.png"><br><a href="https://play.google.com/store/apps/details?id=org.outline.android.client" title="android-v1.2.9">Android</a></td>
 <td align="center"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/platform-windows.png"><br><a href="https://raw.githubusercontent.com/Jigsaw-Code/outline-releases/master/client/stable/Outline-Client.exe" titel="windows">Windows</a></td>
-<td align="center"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/platform-chrome.png"><br>Chrome</td>
+<td align="center"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/platform-chrome.png"><br>Chrome OS</td>
 </tr>
 <tr><td>&nbsp;</td></tr>
 <tr>
