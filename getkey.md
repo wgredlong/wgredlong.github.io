@@ -1,6 +1,6 @@
 # 申请密钥
 
-本項目只爲測試技術成果，你可以加入我们的 <a href="https://keybase.io/team/outliners">KeybaseOutliners群组</a> 获取测试密钥，也可以给我们发送 <a href="mailto:wgredlong@protonmail.com?&subject=申请测试密钥">申请邮件</a>，获取测试密钥。
+本項目只爲測試技術成果，你可以通过加入我们的 <a href="https://keybase.io/team/outliners">KeybaseOutliners群组</a> 或给我们发送 <a href="mailto:wgredlong@protonmail.com?&subject=申请测试密钥">申请邮件</a>，获取测试密钥。
 
 如果你確實希望長期科學上網，也免各種中斷之苦，那么可以点击下面的支付按钮，選擇支付～0.05BTC的费用，支付完成后，立即发送 <a href="mailto:wgredlong@protonmail.com?&subject=我已完成支付，支付钱包地址见邮件正文，请在核对后创建我的出蓝(Outline)密钥">电子邮件</a> 告知我们你支付所用的钱包地址，核对之后，我们会寄出你的专有密钥，并爲你提供穩固而且定制的出藍（Outline）服务。
 
