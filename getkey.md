@@ -1,10 +1,12 @@
-# 申请密钥
+# 获得密钥
 
-本項目只爲測試技術成果，你可以通过加入我们的 <a href="https://keybase.io/team/outliners">KeybaseOutliners群组</a> 或给我们发送 <a href="mailto:wgredlong@protonmail.com?&subject=申请测试密钥">申请邮件</a>，获取测试密钥。
+本项目只为测试技术成果，你可以通过加入我们的 <a href="https://keybase.io/team/outliners">Keybase Outliners 群组</a>获取测试密钥，并与各方群友交流或分享使用体验。
 
-如果你確實希望長期科學上網，也免各種中斷之苦，那么可以点击下面的支付按钮，選擇支付～0.05BTC的费用，支付完成后，立即发送 <a href="mailto:wgredlong@protonmail.com?&subject=我已完成支付，支付钱包地址见邮件正文，请在核对后创建我的出蓝(Outline)密钥">电子邮件</a> 告知我们你支付所用的钱包地址，核对之后，我们会寄出你的专有密钥，并爲你提供穩固而且定制的出藍（Outline）服务。
+如果希望獲得長期稳定的服務，請在 Keybase 中發送 1XLM 給 wgredlong*keybase.io ，我們將返回你部分加密貨幣以及定制的出藍（Outline）密鑰。
+
+
 
 <br>
-<div> <a class="buy-with-crypto" href="https://commerce.coinbase.com/checkout/27a2a52f-0970-406b-82ad-1b91ae1a6c89"> <span>Buy with Crypto</span> </a> <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807"> </script> </div>
+<a href="https://wgredlong.github.io/donate.html">赞助出藍（Outline）</a>
 
 <br><br><a href="https://wgredlong.github.io/">返回</a>
