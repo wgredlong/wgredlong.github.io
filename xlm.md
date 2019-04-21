@@ -7,4 +7,4 @@ XLM 是 Keybase 内置的货币，Keybase 用户可以通过用户名互相转�
 中国大陆用户能以场外交易的方式在一些数字货币交易市场用人民币直接购买 XLM ，比如：<a href="https://otcbtc.com/sell_offers?currency=xlm&fiat_currency=cny&payment_type=all">https://otcbtc.com/sell_offers?currency=xlm&fiat_currency=cny&payment_type=all</a>
 
 
-<br><br><a href="https://wgredlong.github.io/getkey.html/">返回</a>
+<br><br><a href="https://wgredlong.github.io/getkey.html">返回</a>
