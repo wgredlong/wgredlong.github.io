@@ -6,4 +6,4 @@
 <br><br>
 如果你已经有 XLM ，并打算购买专属密钥，请查看 <a href="https://wgredlong.github.io/pay.html">如何获得专属稳定密钥</a> 。
 
-<br><br><a href="https://wgredlong.github.io/">返回</a>
+<br><br><a href="https://wgredlong.github.io/testkey.html">返回</a>
