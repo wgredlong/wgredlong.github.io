@@ -8,4 +8,4 @@ XLM 是 Keybase 内置的货币，Keybase 用户可以通过用户名互相转�
 
 目前（2019/04）100XLM 约等于 76￥，实时价格见：<a href="https://coinmarketcap.com/zh/currencies/stellar/">https://coinmarketcap.com/zh/currencies/stellar/</a> 。
 
-<br><br><a href="https://wgredlong.github.io/getkey.html">返回</a>
+<br><br><a href="https://wgredlong.github.io/stablekey.html">返回</a>
