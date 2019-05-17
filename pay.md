@@ -8,6 +8,6 @@
 如果你还不是 Keybase 用户，请支付到 `GCHBHRGQCJ7YIER5V623RPLYODDRR7XBTPZZFUVLCEPT3UQGQPYTC4HV` 。
 
 
-<br><br><a href="https://wgredlong.github.io/">返回
+<br><br><a href="https://wgredlong.github.io/stablekey.html">返回
 
 
