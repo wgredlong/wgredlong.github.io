@@ -1,4 +1,4 @@
-# 100XLM
+# XLM
 
 XLM 是数字货币 Lumens 的简称，中文名流明币；Lumens 之前英文名是 Stellar ，简称 STR ，中文名是恒星币；XLM 官网：<a href="https://www.stellar.org/lumens/">https://www.stellar.org/lumens/</a> 。
 
