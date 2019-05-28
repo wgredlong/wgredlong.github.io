@@ -4,7 +4,7 @@
 <br><br>
 如果你已经有 XLM ，且准备购买专属密钥，请查看 <a href="https://wgredlong.github.io/pay.html">如何获得出蓝专属稳定密钥</a> 。
 <br><br>
-如果你还不了解或不知道如何获得 XLM ，请查看此 <a href="https://wgredlong.github.io/xlm.html">关于 XLM 的介绍</a> 。
+如果你还不了解（或不知道如何获得） XLM ，请查看此 <a href="https://wgredlong.github.io/xlm.html">关于 XLM 的介绍</a> 。
 
 
 
